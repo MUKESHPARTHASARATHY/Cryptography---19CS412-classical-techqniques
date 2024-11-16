@@ -518,7 +518,7 @@ void decipher() {
 
 ## Output:
 
-![CRYOP4VIG](https://github.com/user-attachments/assets/15b48412-fb85-43ef-bd6a-a96800e90bfc)
+![CRYOP4](https://github.com/user-attachments/assets/497d2b80-9985-48a9-999c-c5825f96f5ff)
 
 
 ## Result:
